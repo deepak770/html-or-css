@@ -1,0 +1,27 @@
+.cantiner{
+
+    background-color: antiquewhite;
+    width: 800px;
+    margin: 70px 0 0 50px;
+    display: grid;
+    grid-template-columns: 150px 200px auto;
+    grid-template-rows: 150px 200px auto;
+}
+.itmes1{
+    background-color: red;
+}
+.itmes2{
+    background-color: blue
+}
+.itmes3{
+    background-color: pink;
+}
+.itmes4{
+    background-color: gold;
+}
+.itmes5{
+    background-color: yellowgreen;
+}
+.itmes6{
+    background-color: magenta;
+}
