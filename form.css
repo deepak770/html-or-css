@@ -1,0 +1,25 @@
+body{
+
+    border: 2px solid black;
+    
+}
+#main{
+
+    background-color: beige;
+    
+}
+
+#first{
+    margin: 200px;
+    float: left;
+
+
+}
+
+#second{
+    margin: 200px;
+    float: right;
+    
+
+
+}

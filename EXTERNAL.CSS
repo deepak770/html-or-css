@@ -1,0 +1,67 @@
+/*-- list style and position */
+
+ul{
+
+    list-style-type: circle;
+    border: 2px solid black;
+    list-style-position: inside;
+    list-style-image: url(download.png);
+    
+}
+
+ul li{
+
+    
+}
+
+ol{
+    list-style: lower-roman;
+    list-style-position: inside;
+
+
+}
+
+
+/*--background images */
+
+body{
+
+    background-image: url('download\ \(3\).jfif');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-color: bisque;
+
+    
+    
+}
+
+#box1{
+
+    border: 3px solid black;
+    padding: 15px;
+    height: 400px;
+    width: 500px;
+    background-color: white;
+    background-image: url('download\ \(3\).jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-origin: content-box;*/
+
+}
+h1{
+
+    background-image: url('download\ \(3\).jfif');
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#box3{
+
+    border: 3px solid black;
+    padding: 15px;
+    height: 400px;
+    width: 500px;
+    background-color: rgb(red, rgb(43, 41, 85), blue);
+
+}
