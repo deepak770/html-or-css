@@ -1,0 +1,25 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color: bisque;
+}
+
+.cantiner{
+
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.box_{
+
+    max-width: 600px;
+    padding: 20px;
+    background-color: white;
+}

@@ -6,6 +6,7 @@
     display: grid;
     grid-template-columns: 150px 200px auto;
     grid-template-rows: 150px 200px auto;
+    grid-gap: 20px;
 }
 .itmes1{
     background-color: red
