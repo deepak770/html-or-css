@@ -1,0 +1,34 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.continer{   
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+.button{
+    padding: 40px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: x-large;
+}    
+
+.row{
+
+    margin-top: 7px;
+}
+
+.row input{
+    margin: 0px;
+    padding: 15px 95px;
+    font-size: large;
+    border: 2px solid black;    
+}
